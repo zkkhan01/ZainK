@@ -33,7 +33,7 @@ Full stack maternal health prototype built for AI powered risk tracking and clin
 - Clinician dashboard with real time patient prioritization
 - Tech: FastAPI, Pathway, Next.js 16, TypeScript, Tailwind, shadcn, Docker
 
-Repo: *(add link when public)*
+Repo: [*Bloomguard*](https://github.com/zkkhan01/BloomGuard)
 
 ---
 
@@ -60,7 +60,7 @@ Streaming AI system that tracks wellness metrics and surfaces evolving relapse r
 - Provides supportive coaching suggestions through an API
 - Tech: Pathway, Python, FastAPI
 
-Repo: *(add link when public)*
+Repo: [*(RelapseRadar*](https://github.com/zkkhan01/relapseradar)
 
 ---
 
@@ -73,7 +73,7 @@ Cross platform scheduling platform for teams.
 - Web app and mobile app sharing a common backend
 - Tech: Flask, React, React Native, Firebase
 
-Repo: *(add link when public)*
+Repo: [*App*](https://github.com/zkkhan01/dpu-athletics)
 
 ---
 
@@ -86,7 +86,7 @@ Hybrid autograder for large scale grading of programming assignments.
 - Detailed pass or fail reports and error summaries
 - Tech: Java, Python
 
-Repo: *(add link when public)*
+Repo: [*Grader*](https://github.com/zkkhan01/grading)
 
 ---
 
