@@ -118,7 +118,7 @@ AWS, Firebase, Microsoft 365, Linux, Windows Server, ServiceNow
 ## How to Reach Me
 
 - Portfolio: [https://zainkkhan.vercel.app](https://zainkkhan.vercel.app)  
-- LinkedIn: *(your profile link)*  
+- LinkedIn: [https://linkedin.com/in/zainkhalilkhan]((https://linkedin.com/in/zainkhalilkhan))   
 - Email: **zainkhalilkhan1@gmail.com**
 
 Feel free to reach out about internships, collaborations, research ideas, or hackathons.
